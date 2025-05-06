@@ -1,0 +1,119 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  /* Section Styles */
+  section {
+    padding: 2rem 0;
+  }
+  
+  /* Container for the grid */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  /* Grid Layout */
+  .grid {
+    display: grid;
+    gap: 2rem;
+  }
+  
+  .grid-two-cols {
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  /* Registration Image */
+  .registration-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .registration-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  /* Registration Form */
+  .registration-form {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .registration-form h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #646cff;
+    text-align: center;
+  }
+  
+  .registration-form label {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  .registration-form input {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .registration-form input:focus {
+    outline: none;
+    border-color: #646cff;
+    box-shadow: 0 0 5px rgba(100, 108, 255, 0.5);
+  }
+  
+  /* Button Styles */
+  .btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-submit {
+    background-color: #646cff;
+    color: white;
+    width: 100%;
+  }
+  
+  .btn-submit:hover {
+    background-color: #5058e2;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .grid-two-cols {
+      grid-template-columns: 1fr;
+    }
+  
+    .registration-image {
+      display: none;
+    }
+  
+    .registration-form {
+      padding: 1.5rem;
+    }
+  }

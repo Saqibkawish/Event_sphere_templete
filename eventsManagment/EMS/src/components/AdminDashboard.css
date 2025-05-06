@@ -1,0 +1,189 @@
+.admin-dashboard {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .dashboard-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eaeef3;
+  }
+  
+  .dashboard-header h1 {
+    font-size: 2rem;
+    color: #2d3748;
+    margin-bottom: 0.5rem;
+  }
+  
+  .dashboard-header p {
+    color: #718096;
+    font-size: 0.9rem;
+  }
+  
+  .exhibitor-table-container {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  
+  .exhibitor-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+  }
+  
+  .exhibitor-table th {
+    background: #f7fafc;
+    color: #4a5568;
+    font-weight: 600;
+    padding: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+    border-bottom: 2px solid #e2e8f0;
+  }
+  
+  .exhibitor-table td {
+    padding: 1rem;
+    border-bottom: 1px solid #e2e8f0;
+    font-size: 0.9rem;
+  }
+  
+  .company-info .company-name {
+    font-weight: 500;
+    color: #2d3748;
+  }
+  
+  .company-email {
+    color: #718096;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+  }
+  
+  .contact-person {
+    font-weight: 500;
+    color: #2d3748;
+  }
+  
+  .contact-phone {
+    color: #718096;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+  }
+  
+  .status-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+  
+  .status-badge.approved {
+    background: #c6f6d5;
+    color: #22543d;
+  }
+  
+  .status-badge.pending {
+    background: #feebc8;
+    color: #7b341e;
+  }
+  
+  .status-badge.rejected {
+    background: #fed7d7;
+    color: #742a2a;
+  }
+  
+  .booth-badge {
+    background: #ebf8ff;
+    color: #3182ce;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-weight: 500;
+  }
+  
+  .booth-unassigned {
+    color: #718096;
+    font-style: italic;
+  }
+  
+  .action-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .assignment-control,
+  .status-control {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  select.booth-select,
+  select.status-select {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    background: white;
+  }
+  
+  .btn-assign,
+  .btn-update {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .btn-assign {
+    background: #4299e1;
+    color: white;
+  }
+  
+  .btn-assign:hover {
+    background: #3182ce;
+  }
+  
+  .btn-update {
+    background: #48bb78;
+    color: white;
+  }
+  
+  .btn-update:hover {
+    background: #38a169;
+  }
+  
+  .empty-state {
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  
+  .empty-content img {
+    max-width: 200px;
+    margin-bottom: 1rem;
+    opacity: 0.6;
+  }
+  
+  .empty-content p {
+    color: #718096;
+    font-size: 0.9rem;
+  }
+  
+  @media (max-width: 768px) {
+    .exhibitor-table-container {
+      overflow-x: auto;
+    }
+    
+    .exhibitor-table {
+      min-width: 800px;
+    }
+  }
+
+  

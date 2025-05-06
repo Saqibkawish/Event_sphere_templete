@@ -1,0 +1,197 @@
+first need to install npm i in both client and server then you need to npm cmd for different funtionalty like nodemailer etc
+
+admin@gmail.com
+
+admin123
+
+user demo
+danish.saleem70200@gmail.com
+danish1234
+
+exhbitor details password remian same"exp123"
+
+Here are the six exhibitor emails:
+
+1️⃣ Tech Expo 2025
+📧 Email: john.doe@techinnovators.com
+
+2️⃣ International Business Conference
+📧 Email: michael.smith@globalventures.com
+
+3️⃣ Auto Show 2025
+📧 Email: ali.khan@speedmotors.com
+
+4️⃣ Fashion Week Pakistan
+📧 Email: zara.malik@elegancecouture.com
+
+5️⃣ Health & Wellness Expo
+📧 Email: dr.kamran@fitlife.pk
+
+6️⃣ Food Festival 2025
+📧 Email: bilal.anwar@gourmetdelights.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tech Expo 2025
+📍 Location: Expo Center, Karachi
+📅 Date: March 15-17, 2025
+
+Exhibitor Details
+Company Name: AI Solutions Pvt. Ltd.
+Contact Person: John Doe
+Email: john.doe@aisolutions.com
+Phone: 1234567890
+Products/Services: AI-based automation, Blockchain security solutions
+Session Details
+Title: Future of AI in Business
+Time Slot: 11:00 AM - 12:00 PM
+Speaker: Dr. Ali Ahmed
+Location: Hall A, Expo Center
+International Business Conference
+📍 Location: Pearl Continental Hotel, Lahore
+📅 Date: April 5, 2025
+
+Exhibitor Details
+Company Name: Global Investments Ltd.
+Contact Person: Sarah Khan
+Email: sarah.khan@globalinvestments.com
+Phone: 9876543210
+Products/Services: Business consultancy, investment planning
+Session Details
+Title: The Future of Global Investments
+Time Slot: 2:00 PM - 3:30 PM
+Speaker: Mr. James Anderson
+Location: Conference Room 1
+Auto Show 2025
+📍 Location: Expo Center, Islamabad
+📅 Date: June 10-12, 2025
+
+Exhibitor Details
+Company Name: Speed Motors
+Contact Person: Ahmed Raza
+Email: ahmed.raza@speedmotors.com
+Phone: 03211223344
+Products/Services: Electric Vehicles, Hybrid Technology
+Session Details
+Title: Evolution of Electric Vehicles
+Time Slot: 4:00 PM - 5:00 PM
+Speaker: Dr. Samir Khan
+Location: Main Exhibition Hall
+Fashion Week Pakistan
+📍 Location: Karachi Arts Council
+📅 Date: May 20-25, 2025
+
+Exhibitor Details
+Company Name: Elite Designers
+Contact Person: Ayesha Malik
+Email: ayesha.malik@elitedesigners.com
+Phone: 03451234567
+Products/Services: Designer clothing, accessories
+Session Details
+Title: Future Trends in Fashion
+Time Slot: 6:00 PM - 7:30 PM
+Speaker: Sana Khan
+Location: Fashion Ramp
+Health & Wellness Expo
+📍 Location: Lahore Expo Center
+📅 Date: July 15, 2025
+
+Exhibitor Details
+Company Name: FitLife Wellness
+Contact Person: Bilal Hussain
+Email: bilal.hussain@fitlife.com
+Phone: 03001234567
+Products/Services: Gym equipment, organic supplements
+Session Details
+Title: Nutrition & Fitness for a Healthy Life
+Time Slot: 10:00 AM - 11:30 AM
+Speaker: Dr. Hina Saeed
+Location: Health Pavilion
+Startup & Innovation Summit
+📍 Location: NIC, Islamabad
+📅 Date: August 10, 2025
+
+Exhibitor Details
+Company Name: TechStart Inc.
+Contact Person: Omar Farooq
+Email: omar.farooq@techstart.com
+Phone: 03121234567
+Products/Services: Startup funding, innovation labs
+Session Details
+Title: How to Scale a Startup in 2025
+Time Slot: 1:00 PM - 2:30 PM
+Speaker: Mr. Daniel Lee
+Location: Startup Lounge
+Food Festival 2025
+📍 Location: Frere Hall, Karachi
+📅 Date: September 2-4, 2025
+
+Exhibitor Details
+Company Name: Tasty Bites Pvt. Ltd.
+Contact Person: Ali Khan
+Email: ali.khan@tastybites.com
+Phone: 03331234567
+Products/Services: Fast food, traditional Pakistani cuisine
+Session Details
+Title: Exploring the World of Flavors
+Time Slot: 3:00 PM - 4:30 PM
+Speaker: Chef Zain Qureshi
+Location: Food Theatre
+Education & Career Fair
+📍 Location: Lahore Expo Center
+📅 Date: October 12-13, 2025
+
+Exhibitor Details
+Company Name: Future Scholars Academy
+Contact Person: Farah Ahmed
+Email: farah.ahmed@futurescholars.com
+Phone: 03451231234
+Products/Services: Scholarship programs, career counseling
+Session Details
+Title: Choosing the Right Career Path
+Time Slot: 10:30 AM - 12:00 PM
+Speaker: Dr. Salman Javed
+Location: Seminar Hall 2
+Gaming & Esports Championship
+📍 Location: Karachi Arena
+📅 Date: November 18-20, 2025
+
+Exhibitor Details
+Company Name: GameZone Pvt. Ltd.
+Contact Person: Rehan Malik
+Email: rehan.malik@gamezone.com
+Phone: 03031231234
+Products/Services: Gaming consoles, esports tournaments
+Session Details
+Title: Future of Esports in Pakistan
+Time Slot: 4:30 PM - 6:00 PM
+Speaker: Hassan Ali
+Location: Esports Lounge
+Art & Culture Exhibition
+📍 Location: Pakistan National Council of Arts, Islamabad
+📅 Date: December 5-10, 2025
+
+Exhibitor Details
+Company Name: Creative Arts Studio
+Contact Person: Maria Sohail
+Email: maria.sohail@creativearts.com
+Phone: 03211234568
+Products/Services: Traditional and modern art, calligraphy
+Session Details
+Title: The Evolution of Art in Pakistan
+Time Slot: 2:00 PM - 3:30 PM
+Speaker: Professor Iqbal Haider
+Location: Art Gallery Hall
+
